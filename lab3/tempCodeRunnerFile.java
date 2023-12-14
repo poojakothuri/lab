@@ -1,0 +1,2 @@
+        products.setProduct();
+        products.printall();
